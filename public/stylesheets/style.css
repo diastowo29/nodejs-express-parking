@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.parking-car-border-l {
+	border-left: 7px solid #000;
+}
+
+.parking-car {
+	padding-right:20px; 
+	border-right: 7px solid #000;
+	text-align: center;
+}
